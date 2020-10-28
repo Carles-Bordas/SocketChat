@@ -1,4 +1,4 @@
-package com.snowy.socket-chat;
+package com.snowy.socketchat;
 
 /**
  * Hello world!
